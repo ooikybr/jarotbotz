@@ -403,7 +403,7 @@ _____•••••••••
                                     "rowId": ".waifu"
                                 }, { 
 "title": "|🅿️|─────「 31 」",
-                                    "description": "profile anda di zifabotz",
+                                    "description": "profile anda di JAROTTotz",
                                     "rowId": ".profile"
                                 }, { 
                                     "title": "|👩‍⚖️|─────「 32 」",
@@ -414,7 +414,7 @@ _____•••••••••
                             }, {
                                 "rows": [{
                                     "title": "|👩‍💻| Owner JAROTTBOTZ",
-                                    "description": "pemilik ZIFABOTZ",
+                                    "description": "pemilik OscarBOTZ",
                                     "rowId": ".owner"
                                 }, {
                                     "title": "|🛠|Status bot",
