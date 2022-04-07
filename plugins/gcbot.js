@@ -3,12 +3,12 @@ let pp = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&s
 let botol = global.botwm
 let str = `
 ╭═══════════════════════
-║╭──❉ 〔 ⳹ ❋ཻུ۪۪⸙𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯⳹ ❋ཻུ۪۪ 〕 ❉────── 
-║│➸ *_GROUP OFFC ZIFABOTZ_*
-║│➸  *https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv*
+║╭──❉ 〔 ⳹ ❋ཻུ۪۪⸙JAROTT⳹ ❋ཻུ۪۪ 〕 ❉────── 
+║│➸ *_GROUP OFFC JAROTTBOTZ_*
+║│➸  *https://chat.whatsapp.com/GdYb1peYfLyAosgwrUnpNc*
 ╰─────────❉
 ▌│█║▌║▌║║▌║▌║█│▌
-⳹ ❋ཻུ۪۪⸙𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯⳹ ❋ཻུ۪۪⸙ by.rozi
+⳹ ❋ཻུ۪۪⸙JAROTT⳹ ❋ཻུ۪۪⸙ by.rozi
 `.trim()
 conn.sendButton(m.chat, str, `${botol}`, `⋮☰ Menu`, `.menu`, m)
 }
