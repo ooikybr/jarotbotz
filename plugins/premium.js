@@ -37,9 +37,9 @@ handler.help = ['premium']
 handler.tags = ['info']
 handler.command = /^premium$/i
 
-handler.owner = false
+handler.owner = true
 handler.mods = false
-handler.premium = false
+handler.premium = true
 handler.group = false
 handler.private = false
 
