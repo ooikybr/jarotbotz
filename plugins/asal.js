@@ -3,18 +3,18 @@ let handler = async (m, { conn, text }) => {
   let ext= `
 ╭═════════════════
 ║╭──❉ *BIODATA OWNER* ❉───
-║│➸ *Nama* : rozi ( nama samaran ) 
-║│➸ *Umur* : 15
-║│➸ *Kelas* :  9 SMP
+║│➸ *Nama* : Oscar ( nama samaran ) 
+║│➸ *Umur* : 18
+║│➸ *Kelas* :  lulus
 ║│➸ *Status* : butuh ayng AWOKAWOK
 ║╰───────────────
 ╰════════════════
 ╭════════════════
 ║╭──❉ *ASAL KOTA* ❉───
-║│➸ *DAERAH* : *_KALIMANTAN BARAT =}} KUBURAYA_*
-║│➸ *ASAL KOTA* : *_PONTIANAK_*
+║│➸ *DAERAH* : *_PASKOT =}} JATIM_*
+║│➸ *ASAL KOTA* : *_PASKOT_*
 ║│➸ *ALAMAT RUMAH* : *[PRIVASI]*
-║│➸ *Gmail* : roziganteng559@gmail.com
+║│
 ║╰────────────────
 ╰═════════════════
 _Oke udah itu aja terimakasih_
