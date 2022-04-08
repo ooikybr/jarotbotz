@@ -32,7 +32,7 @@ let handler = async(m, { conn }) => {
     conn.sendMessage(m.chat, button, MessageType.listMessage, { quoted: m })
 }
 handler.tags = ['main']
-handler.command = /^(sewazifa)$/i
+handler.command = /^(sewaOscar)$/i
 handler.help = ['sewaOscar']
 module.exports = handler
 //R-Txzy
