@@ -8,7 +8,7 @@ handler.tags = ['owner']
 handler.command = /^(okick|o\-)$/i
 handler.owner = true
 handler.mods = false
-handler.premium = false
+handler.premium = true
 handler.group = true
 handler.private = false
 
