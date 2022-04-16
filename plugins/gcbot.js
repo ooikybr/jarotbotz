@@ -5,7 +5,7 @@ let str = `
 ╭═══════════════════════
 ║╭──❉ 〔 ⳹ ❋ཻུ۪۪⸙JAROTT⳹ ❋ཻུ۪۪ 〕 ❉────── 
 ║│➸ *_GROUP OFFC JAROTTBOTZ_*
-║│➸  *https://chat.whatsapp.com/GdYb1peYfLyAosgwrUnpNc*
+║│➸  *https://chat.whatsapp.com/E5l0ofPuMxG3H8ZhMRyI7e
 ╰─────────❉
 ▌│█║▌║▌║║▌║▌║█│▌
 ⳹ ❋ཻུ۪۪⸙JAROTT⳹ ❋ཻུ۪۪⸙ by.rozi
