@@ -222,7 +222,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                     "listMessage":  {
                         "title": `*${ucapan()}, ${name}*`.trim(),
                         "description": `╭═══════════════════════
-║╭──❉ 〔 ⳹ ❋ཻུ۪۪JAROTTbotz⳹ ❋ཻུ۪۪ 〕 ❉────── 
+║╭──❉ 〔 ⳹ ❋ཻུ۪۪𝐁𝐎𝐓 𝐉𝐀𝐑𝐎𝐓⳹ ❋ཻུ۪۪ 〕 ❉────── 
 ║│➸⏰Aktif selama ${uptime}
 ║│➸⚡Baterai ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
 ║│➸ Nama bot: *𝐁𝐎𝐓𝐓 𝐉𝐑*
@@ -233,7 +233,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 _____••••••••• 
 ⬣━〔Powered By 𝐉𝐀𝐑𝐎𝐓〕━⬣
 ▌│█║▌║▌║║▌║▌║█│▌ `.trim(),
-                        "footerText": "*group offc bot https://bit.ly/3IKkoym*",
+                        "footerText": "*group offc bot https://chat.whatsapp.com/E5l0ofPuMxG3H8ZhMRyI7e*",
                         "buttonText": "««TAMPILAN MENU««",
                         "listType": "SINGLE_SELECT",
                         "sections": [
@@ -554,16 +554,16 @@ function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
   res = "udah malam tidur gih •>•"
   if (time >= 4) {
-    res = "Selamat pagi hari bro 🌅"
+    res = "Selamat pagi hari kak 🌅"
   }
   if (time > 10) {
-    res = "Selamat siang hari bro 🏜️"
+    res = "Selamat siang hari kak 🏜️"
   }
   if (time >= 15) {
-    res = "Selamat sore hari bro 🌄"
+    res = "Selamat sore hari kak 🌄"
   }
   if (time >= 18) {
-    res = "Selamat malam hari bro 🌌"
+    res = "Selamat malam hari kak 🌌"
   }
   return res
 }
