@@ -3,22 +3,22 @@ let { MessageType } = require('@adiwajshing/baileys')
 let handler = async(m, { conn }) => {
     let kontol = `
 ╭═══════════════════════
-║╭──❉ 〔 ⳹ ❋ཻུ۪۪𝐒𝐄𝐖𝐀 𝐒𝐀𝐓𝐁𝐎𝐓𝐒𝐒⳹ ❋ཻུ۪۪ 〕 ❉────── 
+║╭──❉ 〔 ⳹ ❋ཻུ۪۪𝐒𝐄𝐖𝐀 𝐁𝐎𝐓 𝐉𝐑⳹ ❋ཻུ۪۪ 〕 ❉────── 
 ║│➸ • *SEWA BOT TANYA*           ║│ *LANGSUNG KE*
 ║│ *OWNER*
 ╰─────────❉
 📮 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ *_Tolong jangan dispam_*
 _____••••••••• 
-⬣━〔Store By Rozi〕━⬣
+⬣━〔Store By 𝐉𝐀𝐑𝐎𝐓〕━⬣
 ▌│█║▌║▌║║▌║▌║█│▌`.trim()
   const button = {
         buttonText: '↱ 🄺🄻🄸🄺 🅂🄸🄽🄸 ↲',
         description: kontol,
-        sections:  [{title: "STORE SATBOTSSS", rows: [
+        sections:  [{title: "STORE 𝐁𝐎𝐓 𝐉𝐑", rows: [
         {title: 'Menu utama', description: "Kembali ke Menu Utama", rowId:".?"},
-        {title: 'nomor owner satbotsss', description: "kalau mau sewa silahkan cht owner satbotsss", rowId:".ownersatbotsss"},
-        {title: 'RULES', description: "rules zifabotz", rowId:".rules"},
+        {title: 'nomor owner 𝐁𝐎𝐓 𝐉𝐑', description: "kalau mau sewa silahkan cht owner 𝐁𝐎𝐓 𝐉𝐑", rowId:".owner𝐁𝐎𝐓𝐉𝐑"},
+        {title: 'RULES', description: "rules Jarotbotz", rowId:".rules"},
        ] }],
         listType: 1
        }
