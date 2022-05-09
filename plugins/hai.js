@@ -5,6 +5,6 @@ conn.sendButton( m.chat, caption, `©️ jarotbotz`, `Menu`, `.menu`, m)
 
        }
        
-handler.customPrefix = /^(hallo|hay|zif|zifa|zifabot|zifabotz|hai|hay|menu)/i
+handler.customPrefix = /^(hallo|hay|bot|bot|botjr|jarotbotz|hai|hay|menu)/i
 handler.command = new RegExp
 module.exports = handler
