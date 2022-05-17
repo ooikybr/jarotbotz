@@ -49,7 +49,7 @@ global.eror = '「❗」Server LAGI ERROR COK!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = '© OSCAR BOTZ' //change the watermark 
 global.image = 'https://telegra.ph/file/052ca138a613c8859756f.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/3c11a4cda6bce78a2e2f7.jpg'
+global.thumbfoto = 'https://telegra.ph/file/b224cf1834146e292aa8d.jpg'
 
 // image
 global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
