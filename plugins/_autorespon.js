@@ -69,7 +69,7 @@ Note: Syarat dan Ketentuan mungkin berlaku`.trim(), wm, 'Menu', '#menu', 'Owner'
     if (new Date() * 1 - setting.status > 1000) {
         let _uptime = process.uptime() * 1000
         let uptime = clockString(_uptime)
-        await this.setStatus(`Im BOT JR 🤖 || ⏰ Aktif selama ${uptime} jam |(*delay*🌕)| 👥 User : ${Object.keys(global.db.data.users).length} User || 🎐 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik by.JAROT'}`).catch(_ => _)
+        await this.setStatus(`Im VASDEL BOTZ 🤖 || ⏰ Aktif selama ${uptime} jam |(*delay*🌕)| 👥 User : ${Object.keys(global.db.data.users).length} User || 🎐 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik by.JAROT'}`).catch(_ => _)
         setting.status = new Date() * 1
     }
 
