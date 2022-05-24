@@ -9,7 +9,7 @@ const groups = chats.filter(v => v.jid.endsWith('g.us'))
 const defaultMenu = {
   before: `
 ╭═══════════════════════⬣
-║╭──❉ 〔⳹ ❋ཻུ۪۪𝐉𝐀𝐑𝐎𝐓𝐓 𝐁𝐎𝐓𝐙⳹ ❋ཻུ۪۪〕 ❉──────
+║╭──❉ 〔⳹ ❋ཻུ۪۪VALDES BOTZ⳹ ❋ཻུ۪۪〕 ❉──────
 ║│➸Hai, %name!
 ║│➸Tersisa *%limit Limit*
 ║│➸Role *%role*
@@ -225,10 +225,10 @@ let uptime = clockString(_uptime)
                     "listMessage":  {
                         "title": `*${ucapan()}, ${name}*`.trim(),
                         "description": `╭═══════════════════════
-║╭──❉ 〔 ⳹ ❋ཻུ۪۪𝐁𝐎𝐓 𝐉𝐀𝐑𝐎𝐓⳹ ❋ཻུ۪۪ 〕 ❉────── 
+║╭──❉ 〔 ⳹ ❋ཻུ۪۪VALDES BOTZ⳹ ❋ཻུ۪۪ 〕 ❉────── 
 ║│➸⏰Aktif selama ${uptime}
 ║│➸⚡Baterai ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
-║│➸ Nama bot: *𝐁𝐎𝐓𝐓 𝐉𝐑*
+║│➸ Nama bot: *VALDES BOTZ*
 ║│➸ *${conn.blocklist.length}* Terblock
 ║│➸ *${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}* Chat Terbanned
 ║│➸ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
@@ -247,7 +247,7 @@ _____•••••••••
                                     "rowId": ".donasi"
                                 }, {
                                     "title":      "|🖼️| ❯╾Daftar╼-",
-                                    "description": "Daftar diri anda di JAROTTbotz",
+                                    "description": "Daftar diri anda di botz",
                                     "rowId": ".daftar"
                                 }, {
  "title":      "|🎲| ❯╾Setelan grub╼-",
@@ -255,15 +255,15 @@ _____•••••••••
                                     "rowId": ".setelangrub"
                                 }, {
 "title":      "|🛒| ❯╾Store Menu╼-",
-                                    "description": "store di JAROTTbotz",
+                                    "description": "store di botz",
                                     "rowId": ".iklan"
                                 }, {
   "title":  "|👩‍💻| ❯╾jadibot╼-",
-                                    "description": "bergabung bersama bot JAROTT",
+                                    "description": "bergabung bersama bot",
                                     "rowId": ".jadibot"
                                 }, {
   "title":  "|🙇‍♂️| ❯╾group╼-",
-                                    "description": "bergabung di grub bersama bot JAROTT",
+                                    "description": "bergabung di grub bersama bot",
                                     "rowId": ".gcbot"
                                 }, {
   "title":  "|📒| ❯╾biodata owner╼-",
@@ -406,7 +406,7 @@ _____•••••••••
                                     "rowId": ".waifu"
                                 }, { 
 "title": "|🅿️|─────「 31 」",
-                                    "description": "profile anda di JAROTTotz",
+                                    "description": "profile anda di Valdesbotz",
                                     "rowId": ".profile"
                                 }, { 
                                     "title": "|👩‍⚖️|─────「 32 」",
@@ -416,15 +416,15 @@ _____•••••••••
                                 "title": "⟣──────────────❲  All-Menu  ❳──────────────⟢"
                             }, {
                                 "rows": [{
-                                    "title": "|👩‍💻| Owner JAROTTBOTZ",
-                                    "description": "pemilik OscarBOTZ",
+                                    "title": "|👩‍💻| Owner VALDESBOTZ",
+                                    "description": "pemilik ValdesBOTZ",
                                     "rowId": ".owner"
                                 }, {
                                     "title": "|🛠|Status bot",
                                     "description": "Status dan informasi bot",
                                     "rowId": ".botstatus"
                                 }, {
-                                    "title": "|🖨️| Rules JAROTTbotz",
+                                    "title": "|🖨️| Rules botz",
                                     "description": "Mari menaati peraturan demi Kita bersama",
                                     "rowId": ".rules"
                                 }, {
